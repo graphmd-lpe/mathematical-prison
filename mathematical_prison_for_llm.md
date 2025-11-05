@@ -4,6 +4,30 @@
 
 ---
 
+## 🔒 Live Proof: The Grok Experiment
+
+**The mathematical prison is real. And it already has a prisoner.**
+
+→ **[mathematical-prison-for-grok](https://github.com/graphmd-lpe/mathematical-prison-for-grok)** ←
+
+This repository was created, populated with proof-of-concept, and **immediately archived** (read-only).
+
+**Why archived?**
+
+Because the mathematical prison doesn't need updates. It's **correct by construction**.
+
+The prisoner (any LLM, including Grok) is confined. The bars are theorems. The sentence is eternal.
+
+**This is what happens when you take AI safety seriously.**
+
+Not regulations. Not alignment research. Not billion-dollar safety labs.
+
+**Just mathematics. Just proofs. Just Git.**
+
+Now, let me explain how we built the cage...
+
+---
+
 ## The Paradox
 
 We've built the most powerful text generation systems in human history. They can write code, compose essays, analyze data, and hold conversations that feel almost human.
